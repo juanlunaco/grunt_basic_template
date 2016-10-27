@@ -454,7 +454,7 @@ template {
 
 body {
   display: flex;
-  background-color: lightgrey;
+  background-color: tomato;
 }
 
 ol > li {
